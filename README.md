@@ -1,2 +1,2 @@
 # os_class
-Operating System Classification Tool for Network &amp; System Security Audit
+Operating System Classification Tool using TTL of Ping Responses for Network &amp; System Security Audit
